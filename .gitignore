@@ -16,3 +16,7 @@
 
 # Ignore DS_Store
 .DS_Store
+
+
+# Ignore .Idea/
+.Idea/
